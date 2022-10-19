@@ -54,3 +54,4 @@ function checkPlayerInput(){
 //control of results
 getPlayerChoice();
 checkPlayerInput();
+
